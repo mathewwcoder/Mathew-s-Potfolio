@@ -87,7 +87,7 @@ margin-right: auto;
 
 .gal2
 {
-height: 200px;
+height: 300px;
 }
 
 .gal3
@@ -167,6 +167,14 @@ height:40px;
 background-color: aliceblue;
 color: #ffff;
 }
+.gal2
+{
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
 }
 
 @media only screen and (min-width: 600px) {
@@ -179,7 +187,7 @@ color: #ffff;
     height:300px
   }
 
-
+  
 }
 
 @media only screen and (min-width: 768px) {
@@ -193,6 +201,14 @@ color: #ffff;
   {
     height:500px
   }
+  .gal2
+{
+  height: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
 
 
 }
